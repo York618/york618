@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm York, a student, live in Shenzhen. A real **dude**.
+Happy to learn **Python with Django** now. Maybe some **Nodejs**, **Go**. Some **Machine Learning ?** Still a long way to go.
+Projects? Hmm... a little. Maybe. Publications? Hope there will be in one day. Open Source? I love it!!!!!(I'm crazy)
+Am I online? Learn more on [Status](yorkstudio.statuspage.io) now!
 
 <!--
 **York618/york618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
