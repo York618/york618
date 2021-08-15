@@ -7,8 +7,9 @@ Projects? Hmm... a little. Maybe. Publications? Hope there will be in one day. O
 
 Am I online? Learn more on [Status](https://yorkstudio.statuspage.io) now!
 
-(Telegram)[https://t.me/york618]
-(Blog)[https://xystudio.cf]
+[Telegram](https://t.me/york618)
+
+[Blog](https://xystudio.cf)
 
 <!--
 **York618/york618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
