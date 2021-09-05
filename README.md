@@ -5,7 +5,7 @@ Happy to learn **Python with Django** now. Maybe some **Nodejs**, **Go**. Some *
 
 Projects? Hmm... a little. Maybe. Publications? Hope there will be in one day. Open Source? I love it!!!!!(I'm crazy)
 
-Am I online? Learn more on [Status](https://yorkstudio.statuspage.io) now!
+Am I online? Learn more on [Status](https://stats.uptimerobot.com/vxv26tWkNZ) now!
 
 [Telegram](https://t.me/york618)
 
